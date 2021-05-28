@@ -1,0 +1,1 @@
+p1 = ((float)contador_sit_1 / (float)contador_total * 100.0);
